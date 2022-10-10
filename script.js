@@ -65,3 +65,5 @@ Special Info:
 }
 
 getInfo('Alex', '12', 'MSU', 'JS, Python', 'cat', 'Uzbekistan')
+
+console.log(2)
